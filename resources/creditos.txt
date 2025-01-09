@@ -1,0 +1,11 @@
+                                                                                                                                --- Créditos ---           
+
+Autor:
+Íñigo de Oñate Cruz
+
+Este videojuego Java Broker ha sido diseñado y programado por Íñigo de Oñate Cruz como proyecto final para la asignatura de Programación Orientada a Objetos (POO),
+como parte del plan de estudios cursado en el Doble Grado de Ingeniería de Telecomunicaciones y Business Analytics en el ICAI, Universidad Pontificia de Comillas.
+
+Agradecimientos especiales a la Escuela Superior Técnica del ICAI por la orientación en el desarrollo de este videojuego.
+
+Todos los derechos reservados © 2024 por Íñigo de Oñate Cruz.

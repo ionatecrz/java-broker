@@ -1,0 +1,21 @@
+
+Bienvenido a Java Broker, un simualdor de bolsa donde te sumergirás en el rol de un broker financiero, ejecutando órdenes
+de compra y venta de valores, tales como criptomonedas, fondos indexados, o incluso hasta inversiones de "Alto Riesgo".
+
+
+El desafío será gestionar el dinero de tus clientes de manera eficiente, es por ello que deberás batir la rentabilidad
+exigida por tu cliente, al cual podrás elegir. Contarás con un año, 52 semanas, para llegar al objetivo marcado 
+(mostrado a la izquierda superior de la pantalla).
+
+Para ello contarás con un portfolio que te proporcionará una visión de tus activos por cliente y la rentabilidad de cada uno.
+Debes elegir con qué cliente invertir y cuánto, sin embargo, se exigirá la rentabilidad entre los dos, no individualmente.
+
+Contarás con unas gráficas a tiempo real que mostrarán los valores de los activos en el último año y se irán actualizando 
+cada semana.
+ 
+No habrá un juego igual que otro, ya que los valores iniciales serán siempre los mismos pero se irán generando unos valores
+distintos en cada juego.
+
+No olvides echar un ojo a las inversiones de "Alto Riesgo", solo apto para los más valientes.
+
+¿Listo para convertirte en un broker?
